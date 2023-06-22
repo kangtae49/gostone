@@ -2,10 +2,10 @@
     "versionNo": 0,
     "storeItems": {
       "SKILL.0001": {
-          "price": 50
+          "price": 10
       },
       "SKILL.0002": {
-        "price": 100
+        "price": 10
       }
     }
   }
