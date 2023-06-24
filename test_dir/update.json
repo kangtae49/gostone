@@ -1,3 +1,4 @@
 {
-    "stageFiles":["stages_normal", "stages_1vs1"]
+    "versionNo": 1,
+    "stageFiles":["stages_1vs1", "stages_normal", "stages_normal2"]
 }
